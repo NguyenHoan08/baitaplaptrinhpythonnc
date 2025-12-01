@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<ds-sinhvien>
+    <sinhvien>
+       <tensv>Nguyễn Văn A</tensv> 
+       <namsinh>2004</namsinh> 
+       <gioitinh>Nam</gioitinh>
+    </sinhvien> 
+</ds-sinhvien>
+<?xml version="1.0" encoding="UTF-8"?> 
+<ds-sinhvien>
+   <sinhvien></sinhvien> 
+</ds-sinhvien>
+<?xml version="1.0" encoding="UTF-8"?> 
+<ds-sinhvien>
+   <sinhvien/> 
+</ds-sinhvien>

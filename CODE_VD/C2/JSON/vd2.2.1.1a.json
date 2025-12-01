@@ -1,0 +1,12 @@
+data = {
+    "lơp":"K18A"
+    "mon_hoc": "python nang cao",
+    "sinh_vien":[
+        {"ho_ten":"nguyen van a","nam_sinh":2004,"diem_trb":8.2},
+        {"hp_ten":"tran van b","nam_sinh":2003,"diem_trb":7.6}
+
+    ],
+    "giang_vien":{"ten":"ct","email":"ct@uneti.edu"},
+    "dang_mo":True,
+    "ghi_chu":None
+}
